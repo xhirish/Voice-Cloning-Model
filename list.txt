@@ -1,0 +1,30 @@
+/content/TTS1-TSS2/wavs/1.wav|The quick brown fox jumps over the lazy dog.
+/content/TTS1-TSS2/wavs/2.wav|She sells seashells by the seashore.
+/content/TTS1-TSS2/wavs/3.wav|How much wood would a woodchuck chuck if a woodchuck could chuck wood.
+/content/TTS1-TSS2/wavs/4.wav|Peter Piper picked a peck of pickled peppers.
+/content/TTS1-TSS2/wavs/5.wav|The sun sets in the west, painting the sky in vibrant hues.
+/content/TTS1-TSS2/wavs/6.wav|A journey of a thousand miles begins with a single step.
+/content/TTS1-TSS2/wavs/7.wav|The waves crash against the rocky shore in a rhythmic dance.
+/content/TTS1-TSS2/wavs/8.wav|In the heart of the city, life bustles with energy and excitement.
+/content/TTS1-TSS2/wavs/9.wav|The moonlight casts a magical glow over the quiet village.
+/content/TTS1-TSS2/wavs/10.wav|Raindrops gently tap on the windowpane, creating a soothing melody.
+/content/TTS1-TSS2/wavs/11.wav|As the seasons change, so does the landscape, adorned with colors of autumn.
+/content/TTS1-TSS2/wavs/12.wav|Laughter echoes through the air as friends gather around a crackling bonfire.
+/content/TTS1-TSS2/wavs/13.wav|A symphony of birdsong fills the morning air in the peaceful forest.
+/content/TTS1-TSS2/wavs/14.wav|The aroma of freshly brewed coffee wafts through the cozy cafe.
+/content/TTS1-TSS2/wavs/15.wav|Whispers of the wind carry tales of distant lands and adventures untold.
+/content/TTS1-TSS2/wavs/16.wav|Stars twinkle in the night sky, creating a celestial masterpiece.
+/content/TTS1-TSS2/wavs/17.wav|The old oak tree stands tall, its branches reaching for the sky.
+/content/TTS1-TSS2/wavs/18.wav|A gentle breeze rustles through fields of golden wheat.
+/content/TTS1-TSS2/wavs/19.wav|Neon lights illuminate the bustling streets of the city that never sleeps.
+/content/TTS1-TSS2/wavs/20.wav|Children's laughter echoes in the playground on a sunny afternoon.
+/content/TTS1-TSS2/wavs/21.wav|The first snowfall blankets the world in a pristine coat of white.
+/content/TTS1-TSS2/wavs/22.wav|Waves of nostalgia wash over as the familiar melody plays on the piano.
+/content/TTS1-TSS2/wavs/23.wav|Time seems to stand still as the sun dips below the horizon.
+/content/TTS1-TSS2/wavs/24.wav|The rhythmic beat of drums fills the air during a lively festival.
+/content/TTS1-TSS2/wavs/25.wav|A lone lighthouse stands sentinel against the crashing waves.
+/content/TTS1-TSS2/wavs/26.wav|Cherry blossoms bloom, painting the landscape in shades of pink and white.
+/content/TTS1-TSS2/wavs/27.wav|The scent of blooming flowers permeates the air in the spring garden.
+/content/TTS1-TSS2/wavs/28.wav|Fireworks burst in a kaleidoscope of colors on a festive night.
+/content/TTS1-TSS2/wavs/29.wav|The distant call of a nightingale adds a touch of enchantment to the evening.
+/content/TTS1-TSS2/wavs/30.wav|Snowflakes fall gently, creating a winter wonderland.
