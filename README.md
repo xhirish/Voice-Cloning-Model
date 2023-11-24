@@ -1,5 +1,4 @@
-# Voice-Cloning-Model
-OpeninAPP (Voice Cloning)
+   OpeninAPP (Voice Cloning)
 
 
 Voice cloning is the creation of an artificial simulation of a person’s voice. Today’s AI software methods are capable of generating synthetic speech that closely resembles a targeted human voice. In some cases, the difference between the real and fake voice is imperceptible to the average person.
@@ -85,8 +84,9 @@ pip install librosa soundfile
 r Copy code
 Usage
 Update the input_path and output_path variables in the prepross.py script to point to your input folder containing the .wav files and the desired output folder for the processed files.
-This repository contains a Python script (tacotron2_preprocessor.py) that preprocesses audio files for training a Tacotron 2 text-to-speech model. The script trims silence, normalizes the audio, and saves the processed files to a specified output folder. It's specifically designed to work with .wav files to help create a clean and consistent dataset for Tacotron 2 model training.
 
+
+This repository contains a Python script (tacotron2_preprocessor.py) that preprocesses audio files for training a Tacotron 2 text-to-speech model. The script trims silence, normalizes the audio, and saves the processed files to a specified output folder. It's specifically designed to work with .wav files to help create a clean and consistent dataset for Tacotron 2 model training.
 
 File 4: Metadata.py
 
@@ -120,5 +120,49 @@ This project is licensed under the terms of the MIT license. See the LICENSE fil
 
 
 
+After this we run all the in google collab created by Fakeyou
 
+https://colab.research.google.com/github/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/dev/FakeYou_Tacotron_2_Training.ipynb
+
+All the audio will be Created and Runed below 
+
+
+
+
+Now coming towards the bark Model 
+
+
+
+
+
+
+
+
+Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. To support the research community, we are providing access to pretrained model checkpoints, which are ready for inference and available for commercial use.
+
+
+
+
+Bark was developed for research purposes. It is not a conventional text-to-speech model but instead a fully generative text-to-audio model, which can deviate in unexpected ways from provided prompts. Suno does not take responsibility for any output generated. Use at your own risk, and please act responsibly.
+
+pip install git+https://github.com/suno-ai/bark.git
+or
+git clone https://github.com/suno-ai/bark
+cd bark && pip install .
+
+Run the following Python code to generate speech samples:
+Listen to the audio samples either in an ipynb notebook:
+Or save them as a .wav file using a third-party library, e.g. scipy:
+
+
+So the WAV file will be created in the environment and ready to hear in any languages
+
+
+
+
+Dependencies.
+
+The audio data set of Elon Musk Was not available on the NCBI Dataset hence I recorded my own voice notes in WAV files and preprocessed and trained it .
+
+.
 
